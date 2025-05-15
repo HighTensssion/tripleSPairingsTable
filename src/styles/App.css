@@ -39,22 +39,10 @@ h1 {
     background-color: #f1f1f1;
 }
 
-#dataTable_wrapper {
-    overflow: hidden; /* Hide any overflow caused by the wrapper */
-    margin: 0; /* Remove any default margins */
-    padding: 0; /* Remove any default padding */
-}
-
 #dataTable {
     position:relative;
     table-layout: fixed !important;
     width: 100%;
-    overflow: auto;
-    scrollbar-width: none;
-}
-
-#dataTable::-webkit-scrollbar {
-    display: none; /* Hide scrollbars in WebKit browsers (Chrome, Safari) */
 }
 
 #dataTable th,
@@ -158,21 +146,6 @@ table.display {
     font-family: 'Helvetica Neue LT', Arial, sans-serif; /* Set font */
 }
 
-table.dataTable {
-    border-collapse: collapse; /* Ensure no gaps between cells */
-    margin: 0; /* Remove any default margins */
-    padding: 0; /* Remove any default padding */
-    border: none; /* Remove borders if any */
-}
-
-table.dataTable thead {
-    border-bottom: none; /* Remove any border under the header */
-}
-
-table.dataTable tbody {
-    border-top: none; /* Remove any border above the body */
-}
-
 table.display th,
 table.display td {
     border: 1px solid #ddd; /* Add borders to cells */
@@ -212,4 +185,3 @@ table.display tr:nth-child(even) {
 table.display tr:hover {
     background-color: #f1f1f1; /* Highlight row on hover */
 }
-

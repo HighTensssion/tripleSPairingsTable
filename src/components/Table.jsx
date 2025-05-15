@@ -267,8 +267,8 @@ const Table = ({ data, columns }) => {
     }, [data, columns]);
 
     return (
-        <div style={{ overflow: 'auto', width: '100%', height: '100%', scrollbarWidth: 'none', }}>
-            <table id="dataTable" className="display" style={{ width: '100%', margin: 0, padding: 0, borderCollapse: 'collapse',}}>
+        <div>
+            <table id="dataTable" className="display">
                 <thead>
                     <tr>
                         {columns.map((col, index) => (
@@ -276,7 +276,8 @@ const Table = ({ data, columns }) => {
                         ))}
                     </tr>
                 </thead>
-                <tbody></tbody>
+                <tbody>
+                </tbody>
             </table>
         </div>
     );
