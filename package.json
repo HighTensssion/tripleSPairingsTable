@@ -1,6 +1,6 @@
 {
   "name": "triplespairingstable",
-  "homepage": "https://hightensssion.github.io/interactive-table-project/",
+  "homepage": "https://hightensssion.github.io/tripleSPairingsTable/",
   "version": "1.0.0",
   "description": "A fully interactive pairing table for tripleS.",
   "main": "src/index.js",
@@ -15,8 +15,11 @@
   "dependencies": {
     "datatables.net": "^1.10.24",
     "datatables.net-dt": "^1.13.11",
+    "datatables.net-responsive": "^3.0.4",
+    "datatables.net-responsive-dt": "^3.0.4",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
