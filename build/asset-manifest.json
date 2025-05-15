@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tripleSPairingsTable/static/css/main.d09cc47f.css",
+    "main.css": "/tripleSPairingsTable/static/css/main.a9f68623.css",
     "main.js": "/tripleSPairingsTable/static/js/main.5212a94b.js",
     "index.html": "/tripleSPairingsTable/index.html",
-    "main.d09cc47f.css.map": "/tripleSPairingsTable/static/css/main.d09cc47f.css.map",
+    "main.a9f68623.css.map": "/tripleSPairingsTable/static/css/main.a9f68623.css.map",
     "main.5212a94b.js.map": "/tripleSPairingsTable/static/js/main.5212a94b.js.map"
   },
   "entrypoints": [
-    "static/css/main.d09cc47f.css",
+    "static/css/main.a9f68623.css",
     "static/js/main.5212a94b.js"
   ]
 }
