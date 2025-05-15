@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tripleSPairingsTable/static/css/main.b0c313fa.css",
+    "main.js": "/tripleSPairingsTable/static/js/main.5212a94b.js",
+    "index.html": "/tripleSPairingsTable/index.html",
+    "main.b0c313fa.css.map": "/tripleSPairingsTable/static/css/main.b0c313fa.css.map",
+    "main.5212a94b.js.map": "/tripleSPairingsTable/static/js/main.5212a94b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0c313fa.css",
+    "static/js/main.5212a94b.js"
+  ]
+}
