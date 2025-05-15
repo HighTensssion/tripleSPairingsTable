@@ -59,20 +59,16 @@ h1 {
 #dataTable tbody {
     margin: 0;
     padding: 0;
-    border: none;
 }
 
 #dataTable th,
 #dataTable td {
-    width: 130px; /* Set a fixed width for all columns */
+    width: 155px; /* Set a fixed width for all columns */
     height: 50px; /* Set a fixed height for all cells */
     text-align: center;
     vertical-align: middle;
     overflow: hidden;
     box-sizing: border-box;
-    padding: 0;
-    margin: 0;
-    border: none;
 }
 
 #dataTable td.flipped {
