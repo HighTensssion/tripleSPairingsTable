@@ -49,7 +49,7 @@
       "S18": "-",
       "S19": { "text": "Augustz", "info": "8월즈/Augustz: Seoyeon and Hayeon both have birthdays in August." },
       "S20": { "text": "Ppangnyamz", "info": "빵냠즈/Ppangnyamz: Chosen during the 240126 signal live because Seoyeon and Shion both enjoy bread. 빵냠즈 means \"breadyumz.\"" },
-      "S21": "-",
+      "S21": { "text": "Grapefruit Sherbet", "info": "자몽 샤베트/Grapefruit Sherbet: Chaewon, the \"Uncertain (갈리다만/galidaman) Fairy\" described Seoyeon as the Natrual Monument No. 1 of Grapefruit Sherbet, after picking \"Grapefruit Sherbet\" as their chemistry name during the 250210 SIGNAL." },
       "S22": "-",
       "S23": "-",
       "S24": { "text": "Seoyeonz", "info": "서연즈/Seoyeonz: Yoon (Seoyeon) + Ji (Seoyeon) = Seoyeonz" }
@@ -569,7 +569,7 @@
     },
     {
       "label": "Chaewon",
-      "S1": "-",
+      "S1": { "text": "Grapefruit Sherbet", "info": "자몽 샤베트/Grapefruit Sherbet: Chaewon, the \"Uncertain (갈리다만/galidaman) Fairy\" described Seoyeon as the Natrual Monument No. 1 of Grapefruit Sherbet, after picking \"Grapefruit Sherbet\" as their chemistry name during the 250210 SIGNAL." },
       "S2": "-",
       "S3": "-",
       "S4": { "text": "KimChaez", "info": "김채즈/KimChaez: (Kim Chae)yeon + (Kim Chae)won = KimChaez" },
@@ -592,7 +592,7 @@
       "S21": { "text": "S21", "img": "https://hightensssion.github.io/astral-images/assets/Patterns/21.png"},
       "S22": "-",
       "S23": "-",
-      "S24": "-"
+      "S24": { "text": "WhiteStrawberryz", "info": "백딸기즈/WhiteStrawberryz: On their way to K-CON Japan 2025, during the 250508 SIGNAL, Jiyeon and Chaewon filmed a short where they introduced themselves as \"백딸기\" (White Strawberries)." }
     },
     {
       "label": "Sullin",
@@ -670,7 +670,7 @@
       "S18": "-",
       "S19": "-",
       "S20": "-",
-      "S21": "-",
+      "S21": { "text": "WhiteStrawberryz", "info": "백딸기즈/WhiteStrawberryz: On their way to K-CON Japan 2025, during the 250508 SIGNAL, Jiyeon and Chaewon filmed a short where they introduced themselves as \"백딸기\" (White Strawberries)." },
       "S22": "-",
       "S23": { "text": "ClaireDojoonz", "info": "클레어 도준즈/ClaireDojoonz: One of the choices for Seoah's stage name was \"Claire Jeong\" and one of the choices for Jiyeon's stage name was \"Dojoon,\" so they combined the unchosen names into their chemi name, ClaireDojoonz. (240416 Signal Live)" },
       "S24": { "text": "S24", "img": "https://hightensssion.github.io/astral-images/assets/Patterns/24.png"}
